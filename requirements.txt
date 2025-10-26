@@ -1,0 +1,10 @@
+torch>=1.13
+transformers
+datasets
+pandas
+scikit-learn
+numpy
+tqdm
+sentencepiece
+torch
+streamlit
